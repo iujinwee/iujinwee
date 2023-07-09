@@ -32,7 +32,7 @@
 ### :man_technologist: About Me :
 - 💡 I'm an aspiring IT Project Manager, who enjoys working with others.
 
-- 💻 I'm currently exploring Backend Software Development. 
+- 💻 I'm currently exploring Backend Software Development! Interested in Web 3.0, Artificial Intelligence, Full Stack Web Dev.
 
 - I enjoy watching Netflix 📺, Cycling 🚲 and exploring new places 🗻. 
 
