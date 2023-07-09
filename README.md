@@ -18,7 +18,7 @@
   </h1>
   
   <h3>
-    <div>Year 2 Business and Computer Science Undergraduate</div>
+    <div>Penultimate Business and Computer Science Undergraduate</div>
     <div>at Nanyang Technogical University, Singapore!</div>
   </h3>
 
