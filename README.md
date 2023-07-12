@@ -45,19 +45,19 @@
   <h3>Frontend</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,figma,vuejs" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vuejs,jest" />
     </a>
   </p>
   <h3>Backend</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase" />
+      <img src="https://skillicons.dev/icons?i=nodejs,firebase,nextjs,php,mongodb,mysql,postgresql" />
     </a>
   </p>
   <h3>General</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,java,c,cpp,r,git" />
+      <img src="https://skillicons.dev/icons?i=py,java,c,cpp,r,aws,git" />
     </a>
   </p>
   <br />
