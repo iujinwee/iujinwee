@@ -57,7 +57,7 @@
   <h3>General</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,java,c,cpp,r,aws,git" />
+      <img src="https://skillicons.dev/icons?i=py,java,c,cpp,r,typescript,aws,git" />
     </a>
   </p>
   <br />
