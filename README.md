@@ -34,7 +34,7 @@
 
 - 💻 I'm currently exploring Backend Software Development! Interested in Web 3.0, Artificial Intelligence, Full Stack Web Dev.
 
-- I enjoy watching Netflix 📺, Cycling 🚲 and exploring new places 🗻. 
+- My interests are Netflix :tv: , Cycling :bicyclist: , Travelling :earth_asia:
 
  
 <br />
@@ -44,26 +44,116 @@
 <div align="center">
   <h3>Frontend</h3>
   <p>
-    <a href="https://skillicons.dev">
+    <a href="https://skillicons.dev" height="20" width="20">
       <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vuejs,jest" />
     </a>
   </p>
   <h3>Backend</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,firebase,nextjs,php,mongodb,mysql,postgresql" />
+      <img src="https://skillicons.dev/icons?i=nodejs,firebase,nextjs,php,python"/>
+    </a>
+  </p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma"/>
     </a>
   </p>
   <h3>General</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,java,c,cpp,r,typescript,aws,git" />
+      <img src="https://skillicons.dev/icons?i=py,c,cpp,java,r" />
+    </a>
+  </p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=typescript,gherkin,aws,git,docker" />
     </a>
   </p>
   <br />
 </div>
 
-<br> 
+
+<h2 align="center">My Portfolio</h2>
+
+<h3> :man_student: Internships! </h3>
+<ul>
+  <li>
+    [Software Engineer]
+    <a href="https://www.accredify.io/">
+      Accredify 
+    </a>
+  </li>
+
+  <li>
+    [STEM Business Analyst]
+    <a href="https://www.ocbc.com/group/careers/students/internships/stem.page">
+      OCBC Bank 
+    </a>
+  </li>
+</ul>
+
+
+<h3> :game_die: Personal Projects </h3>
+<ul>
+  <li>
+    [Lead Fullstack Developer]
+    <a href="https://github.com/iujinwee/H3TOPWebsite">
+       Hall 3 Orientation Website 
+    </a>
+  </li>
+
+
+  <li>
+    [Backend Developer]
+    <a href="https://github.com/SCSE-TOP-Tech/virtual-games">
+       SCSE Virtual Games
+    </a>
+  </li>
+</ul>
+
+
+<h3> :books: Academic Projects </h3>
+<ul>
+  <li>
+    [Object Oriented Programming]
+    <a href="https://github.com/iujinwee/OOP-FYP-Management-Project">
+      Final Year Project Management System
+    </a>
+  </li>
+  
+  <li>
+    [Database Systems]
+    <a href="https://github.com/iujinwee/The-Green-World-Project">
+      The Green World Project 
+    </a>
+  </li>
+  
+  
+  <li>
+    [Data Science & Machine Learning]
+    <a href="https://github.com/iujinwee/Identifying-Phishing-URLs-using-ML-Paradigms">
+      Identifying Phishing URLs using ML Paradigms 
+    </a>
+  </li>
+  
+
+  <li>
+    [Predictive Analytics I]
+    <a href="https://github.com/ztjhz/NoMyocardial">
+      Say NO to Myocardial
+    </a>
+  </li>
+
+
+   <li>
+    [SCSE TechFest 2023]
+    <a href="https://github.com/iujinwee/SingTell">
+      SingTell
+    </a>
+  </li>
+
+</ul>
 
 <h2 align="center"> :fire: My Stats  </h2>
 
