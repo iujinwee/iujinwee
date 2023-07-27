@@ -69,7 +69,4 @@
 
 <div align="center"> 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iujinwee&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iujinwee)](https://github.com/iujinwee/github-readme-stats)
-</div> -->
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/iujinwee?cardType=level-alternate&theme=nightowl&preferLogin=false)](https://git.io/awesome-stats-card)
