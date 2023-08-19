@@ -42,78 +42,138 @@
 <h2 align="center"> My Tech Stack</h2>
 
 <div align="center">
-  <h3>Frontend</h3>
-  <p>
-    <a href="https://skillicons.dev" height="20" width="20">
-      <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vuejs,jest" />
-    </a>
-  </p>
-  <h3>Backend</h3>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,firebase,nextjs,php,python"/>
-    </a>
-  </p>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma"/>
-    </a>
-  </p>
-  <h3>General</h3>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,c,cpp,java,r" />
-    </a>
-  </p>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=typescript,gherkin,aws,git,docker" />
-    </a>
-  </p>
+  <h3>Frontend Development</h3>
+
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React.JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+
+  <h3>Backend Development</h3>
+
+  ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+  <h3>Database Management</h3>
+    
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+  
+  <h3>Data Science, ML/ AI</h3>
+
+  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+   
+  <h3>General Programming</h3>
+
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+  <h3>Deployment</h3>
+  
+  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
   <br />
 </div>
 
 
 <h2 align="center">My Portfolio</h2>
 
+
 <h3> :man_student: Internships! </h3>
-<ul>
-  <li>
+
+<details>
+  <summary>
     [Software Engineer]
     <a href="https://www.accredify.io/">
       Accredify 
     </a>
-  </li>
+  </summary>
+  <p>
+    
+  ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+  ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  </p>
+</details>
 
-  <li>
+<details>
+  <summary>
     [STEM Business Analyst]
     <a href="https://www.ocbc.com/group/careers/students/internships/stem.page">
       OCBC Bank 
     </a>
-  </li>
-</ul>
+  </summary>
+  <p>
+            
+  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![VBA](https://img.shields.io/badge/Visual%20Basic-512BD4?logo=visualbasic&logoColor=fff&style=for-the-badge)
+  </p>
+</details>  
 
 
 <h3> :game_die: Personal Projects </h3>
-<ul>
-  <li>
+
+<details>
+  <summary>
     [Lead Fullstack Developer]
-    <a href="https://github.com/iujinwee/H3TOPWebsite">
-       Hall 3 Orientation Website 
-    </a>
-  </li>
+  <a href="https://github.com/iujinwee/H3TOPWebsite">
+     Hall 3 Orientation Website 
+  </a>
+  </summary>
+  <p>
+    
+  ![React.JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  </p>
+</details>
 
 
-  <li>
+<details>
+  <summary>
     [Backend Developer]
     <a href="https://github.com/SCSE-TOP-Tech/virtual-games">
        SCSE Virtual Games
     </a>
-  </li>
-</ul>
+  </summary>
+  <p>
+  
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+  </p>
+</details>
 
 
 <h3> :books: Academic Projects </h3>
+
 <ul>
   <li>
     [Object Oriented Programming]
@@ -129,14 +189,12 @@
     </a>
   </li>
   
-  
   <li>
     [Data Science & Machine Learning]
     <a href="https://github.com/iujinwee/Identifying-Phishing-URLs-using-ML-Paradigms">
       Identifying Phishing URLs using ML Paradigms 
     </a>
   </li>
-  
 
   <li>
     [Predictive Analytics I]
@@ -145,15 +203,15 @@
     </a>
   </li>
 
-
    <li>
     [SCSE TechFest 2023]
     <a href="https://github.com/iujinwee/SingTell">
       SingTell
     </a>
   </li>
-
 </ul>
+
+<br>
 
 <h2 align="center"> :fire: My Stats  </h2>
 
