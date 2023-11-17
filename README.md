@@ -176,6 +176,20 @@
 
 <ul>
   <li>
+    [Database Systems Principles]
+    <a href="https://github.com/iujinwee/SC3020-Database-System-Principles-Project-1">
+      B+ Tree Database
+    </a>
+  </li>
+
+  <li>
+    [Software Engineering]
+    <a href="https://github.com/iujinwee/CodeCrafters">
+      MoveInLo Mobile Application (MERN stack - React Native)
+    </a>
+  </li>
+  
+  <li>
     [Object Oriented Programming]
     <a href="https://github.com/iujinwee/OOP-FYP-Management-Project">
       Final Year Project Management System
