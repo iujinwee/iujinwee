@@ -30,7 +30,7 @@
 
 
 ### :man_technologist: About Me :
-- 💡 I'm an aspiring IT Project Manager, who enjoys working with others.
+- 💡 I'm an aspiring Software Developer, seeking to solve business challenges through innovative software solutions.
 
 - 💻 I'm currently exploring Backend Software Development! Interested in Web 3.0, Artificial Intelligence, Full Stack Web Dev.
 
