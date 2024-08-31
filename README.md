@@ -32,7 +32,7 @@
 ### :man_technologist: About Me :
 - 💡 I'm an aspiring Software Developer, seeking to solve business challenges through innovative software solutions.
 
-- 💻 I'm currently exploring Backend/ Fullstack Software Development! Interested in Web 3.0, Artificial Intelligence, Full Stack Web Dev.
+- 💻 I'm currently exploring Backend/ Fullstack Software Development! Interested in Web 3.0, ML/ AI applications & Solutions Architecture.
 
 - My interests are Netflix :tv: , Cycling :bicyclist: , Travelling :earth_asia:
 
