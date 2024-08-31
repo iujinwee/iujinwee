@@ -18,7 +18,7 @@
   </h1>
   
   <h3>
-    <div>Penultimate Business and Computer Science Undergraduate</div>
+    <div>Graduating Business and Computer Science Undergraduate</div>
     <div>at Nanyang Technogical University, Singapore!</div>
   </h3>
 
@@ -32,7 +32,7 @@
 ### :man_technologist: About Me :
 - 💡 I'm an aspiring Software Developer, seeking to solve business challenges through innovative software solutions.
 
-- 💻 I'm currently exploring Backend Software Development! Interested in Web 3.0, Artificial Intelligence, Full Stack Web Dev.
+- 💻 I'm currently exploring Backend/ Fullstack Software Development! Interested in Web 3.0, Artificial Intelligence, Full Stack Web Dev.
 
 - My interests are Netflix :tv: , Cycling :bicyclist: , Travelling :earth_asia:
 
